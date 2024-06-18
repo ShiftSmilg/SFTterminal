@@ -1,0 +1,2 @@
+# SFTterminal
+terminal batch
